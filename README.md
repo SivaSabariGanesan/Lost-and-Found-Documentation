@@ -2,11 +2,9 @@
 
 Welcome to the **Lost and Found System** repository! 🚨 This system allows users to report **lost** or **found** items via a **Java Swing** GUI. All item data is stored in **MongoDB**, and users can search for and claim items they’ve lost or found. The system is designed to be simple and user-friendly, making it easy to connect people in the community.
 
-![Lost and Found Logo](./assets/logo.png)
-
 ## 📋 Project Details
 
-**Lead Developer**: [Siva Sabari Ganesan A](https://github.com/SivaSabariGanesan.git)  
+**Lead Developer**: [Siva Sabari Ganesan A](#)  
 **Team Member**: [Shanmuganathan S](#)
 
 ---
@@ -30,7 +28,7 @@ Follow these instructions to set up the **Lost and Found System** on your local 
 Before getting started, ensure you have the following installed:
 
 - **Java Development Kit (JDK)** version 8 or above
-- **MongoDB** (can be local or hosted on MongoDB Atlas)
+- **MongoDB** (can be local or hosted on MongoDB Compass)
 - **Maven** (optional, but recommended for managing dependencies)
 
 ### ⚙️ Setup Steps
