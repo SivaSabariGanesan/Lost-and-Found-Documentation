@@ -1,38 +1,41 @@
-# Lost and Found System
+# 🧳 Lost and Found System
 
-Welcome to the **Lost and Found System** repository! This system allows users to report lost or found items using a Java Swing GUI with data stored in a MongoDB database. The application is designed to be simple and user-friendly, aiming to help people find and recover lost items in a community.
+Welcome to the **Lost and Found System** repository! 🚨 This system allows users to report **lost** or **found** items via a **Java Swing** GUI. All item data is stored in **MongoDB**, and users can search for and claim items they’ve lost or found. The system is designed to be simple and user-friendly, making it easy to connect people in the community.
 
-## Features
+![Lost and Found Logo](./assets/logo.png)
 
-- **Report Lost Items**: Users can log lost items, providing detailed descriptions, locations, and the time the item was lost.
-- **Report Found Items**: Users can report found items and provide details for others to claim them.
-- **Search for Lost Items**: Users can search for lost items based on keywords, categories, or location.
-- **MongoDB Integration**: The system stores data, including item reports, in MongoDB.
-- **Java Swing GUI**: The frontend is built using Java Swing, making it a desktop application.
+## 📋 Project Details
 
-## Documentation
+**Lead Developer**: [Siva Sabari Ganesan A](https://github.com/SivaSabariGanesan.git)  
+**Team Member**: [Shanmuganathan S](#)
 
-For a detailed explanation of how the system works, including setup, installation, and other advanced configurations, refer to the **[Lost and Found System Documentation (PDF)](./documentation/lost-and-found-documentation.pdf)**. 
+---
 
-The PDF provides additional information like:
+## Features 🌟
 
-- How to install MongoDB and set it up locally.
-- Detailed steps on integrating MongoDB with Java Swing.
-- API endpoint documentation (if applicable for future extensions).
+- **Report Lost Items**: Log items you’ve lost, including descriptions, locations, and time lost.
+- **Report Found Items**: Report items you've found so others can claim them.
+- **Search for Lost Items**: Easily search for items by keywords, category, or location.
+- **MongoDB Integration**: All data is stored and managed using MongoDB.
+- **Java Swing GUI**: A clean, intuitive user interface for a seamless experience.
 
-## Installation
+---
 
-### Prerequisites
+## 📦 Installation
 
-Before you begin, make sure you have the following installed:
+Follow these instructions to set up the **Lost and Found System** on your local machine.
 
-- **Java Development Kit (JDK)** version 8 or above.
-- **MongoDB** (for local setup or cloud MongoDB such as Atlas).
-- **Maven** (for managing dependencies).
+### 🔧 Prerequisites
 
-### Steps to Set Up
+Before getting started, ensure you have the following installed:
 
-1. Clone the repository:
+- **Java Development Kit (JDK)** version 8 or above
+- **MongoDB** (can be local or hosted on MongoDB Atlas)
+- **Maven** (optional, but recommended for managing dependencies)
+
+### ⚙️ Setup Steps
+
+1. **Clone the repository**:
 
    ```bash
    git clone https://github.com/yourusername/lost-and-found.git
